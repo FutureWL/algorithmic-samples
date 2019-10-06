@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="greedy" />
+        <module name="sort" />
+        <module name="randomization" />
+        <module name="divide-and-conquer" />
+        <module name="dynamic-programming" />
+        <module name="backtracking" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="algorithmic-samples" target="1.5" />
+      <module name="backtracking" target="1.5" />
+      <module name="divide-and-conquer" target="1.5" />
+      <module name="dynamic-programming" target="1.5" />
+      <module name="greedy" target="1.5" />
+      <module name="randomization" target="1.5" />
+      <module name="sort" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
